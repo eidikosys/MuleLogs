@@ -1,0 +1,218 @@
+[2017-03-07 10:24:53.948] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.543]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 10:24:53.957] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.543]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@4de47dfe ::::::::: null
+[2017-03-07 10:24:53.958] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.543]: (t:null) FIELD VALUES ::::::::::::::: 
+ - Reason updated to **New problem** 
+ - Description changed from **Hi
+
+
+Jon at dwell's phone is giving him an internet connection that says hwr exec.
+
+
+Best Regards
+Simon Duffield
+General Manager
+Tel: 0113 357 2000 Mob: 0790 315 6060
+www.airedalehouse.co.uk<http://www.airedalehouse.co.uk>
+
+This message contains confidential information and is intended only for the individual named. If you are not the intended recipient you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited. e-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. Any views expressed in this message are those of the individual sender, except where the sender specifically states them to be the views of the Company. Company registered in England no. 09059732.** to **Hi
+
+
+Jon at dwell's phone is giving him an internet connection that says hwr exec.
+
+
+Best Regards
+Simon Duffield
+General Manager
+Tel: 0113 357 2000 Mob: 0790 315 6060
+www.airedalehouse.co.uk<http://www.airedalehouse.co.uk>
+
+This message contains confidential information and is intended only for the individual named. If you are not the intended recipient you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited. e-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. Any views expressed in this message are those of the individual sender, except where the sender specifically states them to be the views of the Company. Company registered in England no. 09059732.** 
+ - Is Closed changed from **false** to **true** 
+ - Status changed from **New** to **Closed** 
+ - Subject : **Jon ext 2261 Dwell** 
+ - Account Id : **001b000003Hti1aAAB** 
+ - Priority : **P4** 
+ - Case Owner : **Robert Magrath**
+[2017-03-07 10:24:53.959] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.543]: (t:null) post message :::::::::: Email Case with number **[AN-00038152](https://eu2.salesforce.com//500b0000010fd6pAAA)** updated by **[Robert Magrath](https://eu2.salesforce.com//500b0000010fd6pAAA)**  
+ - Reason updated to **New problem** 
+ - Description changed from **Hi
+
+
+Jon at dwell's phone is giving him an internet connection that says hwr exec.
+
+
+Best Regards
+Simon Duffield
+General Manager
+Tel: 0113 357 2000 Mob: 0790 315 6060
+www.airedalehouse.co.uk<http://www.airedalehouse.co.uk>
+
+This message contains confidential information and is intended only for the individual named. If you are not the intended recipient you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited. e-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. Any views expressed in this message are those of the individual sender, except where the sender specifically states them to be the views of the Company. Company registered in England no. 09059732.** to **Hi
+
+
+Jon at dwell's phone is giving him an internet connection that says hwr exec.
+
+
+Best Regards
+Simon Duffield
+General Manager
+Tel: 0113 357 2000 Mob: 0790 315 6060
+www.airedalehouse.co.uk<http://www.airedalehouse.co.uk>
+
+This message contains confidential information and is intended only for the individual named. If you are not the intended recipient you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited. e-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. Any views expressed in this message are those of the individual sender, except where the sender specifically states them to be the views of the Company. Company registered in England no. 09059732.** 
+ - Is Closed changed from **false** to **true** 
+ - Status changed from **New** to **Closed** 
+ - Subject : **Jon ext 2261 Dwell** 
+ - Account Id : **001b000003Hti1aAAB** 
+ - Priority : **P4** 
+ - Case Owner : **Robert Magrath**
+[2017-03-07 16:08:27.696] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.543]: (t:null) IN Opportunity create FLOW
+[2017-03-07 16:08:27.707] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.543]: (t:null) Items are:null
+[2017-03-07 16:08:27.708] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.543]: (t:null) FIELD VALUES ::::::::::::::: 
+ - Account Id : **0013600000U8wKuAAJ**
+[2017-03-07 16:08:27.708] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.543]: (t:null) post message :::::::::: **[Test Opportunity](https://gdt--Dev01.cs50.my.salesforce.com//0063B0000052hOIQAY)**  with close date of 2017-03-15 created by **[Wes Watkins](https://gdt--Dev01.cs50.my.salesforce.com//0063B0000052hOIQAY)** 
+ - Account Id : **0013600000U8wKuAAJ**
+[2017-03-07 18:30:49.849] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.544]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 18:30:49.853] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.544]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@6af63bac ::::::::: null
+[2017-03-07 18:30:49.854] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.544]: (t:null) FIELD VALUES ::::::::::::::: 
+ - createddate updated to **Tue Mar 07 18:30:43 UTC 2017** 
+ - createdbyid updated to **00536000000MVv6AAG** 
+ - Created by updated to **deanna.d** 
+ - Last Modified By updated to **deanna.d** 
+ - Case Number updated to **00005277** 
+ - ownerid changed from **00536000000MVv6AAG** to **00G36000000UBLAEA4** 
+ - lastmodifiedbyid updated to **00536000000MVv6AAG** 
+ - Subject : **RFQ-21887 -Test Opportunity** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Deanna Davenport**
+[2017-03-07 18:30:49.854] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.544]: (t:null) post message :::::::::: Approved Opportunity Case with number **[00005277](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001royeQAA)** updated by **[Deanna Davenport](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001royeQAA)**  
+ - createddate updated to **Tue Mar 07 18:30:43 UTC 2017** 
+ - createdbyid updated to **00536000000MVv6AAG** 
+ - Created by updated to **deanna.d** 
+ - Last Modified By updated to **deanna.d** 
+ - Case Number updated to **00005277** 
+ - ownerid changed from **00536000000MVv6AAG** to **00G36000000UBLAEA4** 
+ - lastmodifiedbyid updated to **00536000000MVv6AAG** 
+ - Subject : **RFQ-21887 -Test Opportunity** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Deanna Davenport**
+[2017-03-07 20:54:26.382] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 20:54:26.390] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@7819e276 ::::::::: null
+[2017-03-07 20:54:26.391] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) FIELD VALUES ::::::::::::::: 
+ - createddate updated to **Tue Mar 07 20:54:03 UTC 2017** 
+ - createdbyid updated to **0053B000000gCBpQAM** 
+ - Created by updated to **wwatk** 
+ - Last Modified By updated to **wwatk** 
+ - Case Number updated to **00005278** 
+ - ownerid changed from **0053B000000gCBpQAM** to **00G36000000UBLAEA4** 
+ - lastmodifiedbyid updated to **0053B000000gCBpQAM** 
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 20:54:26.391] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) post message :::::::::: Approved Opportunity Case with number **[00005278](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)** updated by **[Wes Watkins](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)**  
+ - createddate updated to **Tue Mar 07 20:54:03 UTC 2017** 
+ - createdbyid updated to **0053B000000gCBpQAM** 
+ - Created by updated to **wwatk** 
+ - Last Modified By updated to **wwatk** 
+ - Case Number updated to **00005278** 
+ - ownerid changed from **0053B000000gCBpQAM** to **00G36000000UBLAEA4** 
+ - lastmodifiedbyid updated to **0053B000000gCBpQAM** 
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:34:28.196] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 21:34:28.206] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@59c8d01e ::::::::: null
+[2017-03-07 21:34:28.207] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) FIELD VALUES ::::::::::::::: 
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:34:28.207] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) post message :::::::::: Approved Opportunity Case with number **[00005278](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)** updated by **[Wes Watkins](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)**  
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:34:36.832] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 21:34:36.834] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@415eaa4b ::::::::: null
+[2017-03-07 21:34:36.835] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) FIELD VALUES ::::::::::::::: 
+ - createddate updated to **Tue Mar 07 21:34:25 UTC 2017** 
+ - createdbyid updated to **0053B000000gCBpQAM** 
+ - Created by updated to **wwatk** 
+ - Last Modified By updated to **wwatk** 
+ - Case Number updated to **00005279** 
+ - ownerid changed from **0053B000000gCBpQAM** to **00G36000002BXKpEAO** 
+ - lastmodifiedbyid updated to **0053B000000gCBpQAM** 
+ - Subject : **RFQ-21887 -Test Opportunity** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:34:36.835] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) post message :::::::::: Parent Case Case with number **[00005279](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpPTQAY)** updated by **[Wes Watkins](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpPTQAY)**  
+ - createddate updated to **Tue Mar 07 21:34:25 UTC 2017** 
+ - createdbyid updated to **0053B000000gCBpQAM** 
+ - Created by updated to **wwatk** 
+ - Last Modified By updated to **wwatk** 
+ - Case Number updated to **00005279** 
+ - ownerid changed from **0053B000000gCBpQAM** to **00G36000002BXKpEAO** 
+ - lastmodifiedbyid updated to **0053B000000gCBpQAM** 
+ - Subject : **RFQ-21887 -Test Opportunity** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:34:38.919] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 21:34:38.921] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@4f68bd57 ::::::::: null
+[2017-03-07 21:34:38.929] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) FIELD VALUES ::::::::::::::: 
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:34:38.930] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.547]: (t:null) post message :::::::::: Approved Opportunity Case with number **[00005278](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)** updated by **[Wes Watkins](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)**  
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:35:34.734] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 21:35:34.740] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@2104153e ::::::::: null
+[2017-03-07 21:35:34.744] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) FIELD VALUES ::::::::::::::: 
+ - Is Closed changed from **false** to **true** 
+ - Status changed from **New** to **Child Case Complete** 
+ - Subject : **RFQ-21887 -Test Opportunity** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:35:34.744] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) post message :::::::::: Parent Case Case with number **[00005279](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpPTQAY)** updated by **[Wes Watkins](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpPTQAY)**  
+ - Is Closed changed from **false** to **true** 
+ - Status changed from **New** to **Child Case Complete** 
+ - Subject : **RFQ-21887 -Test Opportunity** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:35:37.483] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 21:35:37.489] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@64ac003a ::::::::: null
+[2017-03-07 21:35:37.490] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) FIELD VALUES ::::::::::::::: 
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:35:37.490] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) post message :::::::::: Approved Opportunity Case with number **[00005278](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)** updated by **[Wes Watkins](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)**  
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:35:40.182] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) IN Case UPDATE FLOW
+[2017-03-07 21:35:40.184] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@2535ff78 ::::::::: null
+[2017-03-07 21:35:40.191] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) FIELD VALUES ::::::::::::::: 
+ - Status changed from **New** to **Scope Complete** 
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**
+[2017-03-07 21:35:40.192] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-salesforce-integration].api-httpListenerConfig.worker.548]: (t:null) post message :::::::::: Approved Opportunity Case with number **[00005278](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)** updated by **[Wes Watkins](https://gdt--Dev01.cs50.my.salesforce.com//5003B000001rpKOQAY)**  
+ - Status changed from **New** to **Scope Complete** 
+ - Subject : **Test Case** 
+ - Account Id : **0013600000U8wKuAAJ** 
+ - Priority : **Medium** 
+ - Case Owner : **Wes Watkins**

@@ -1,0 +1,419 @@
+[2017-03-07 09:20:02.426] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.114]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "aklontzas@blizzard.com",
+    "device": "SMS Phone",
+    "response": "Accept",
+    "annotation": null,
+    "eventIdentifier": 5629752,
+    "date": "17-03-07 09:18:44.648",
+    "eventProperties": [
+      {
+        "Region": "US"
+      },
+      {
+        "Issue_ID": "OPS-88247"
+      },
+      {
+        "Summary": "US S2: 89.52 % CCU dip exceeds tolerance of 3.00 % The"
+      },
+      {
+        "Priority": "3"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 09:20:02.426] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.114]: (t:null) entered into notifications resonse
+[2017-03-07 10:34:33.405] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.114]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "kdrain@blizzard.com",
+    "device": "SMS Phone",
+    "response": "Accept",
+    "annotation": null,
+    "eventIdentifier": 5628792,
+    "date": "17-03-07 10:34:20.958",
+    "eventProperties": [
+      {
+        "Region": "US"
+      },
+      {
+        "Issue_ID": "OPS-88251"
+      },
+      {
+        "Summary": "US8-WTCG-ACE1-GAME-MOBILE024: Critical: warningThreshold=1, criticalThreshold..."
+      },
+      {
+        "Priority": "3"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 10:34:33.406] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.114]: (t:null) entered into notifications resonse
+[2017-03-07 13:19:18.854] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.114]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "jannes.nbe@blizzard.com",
+    "device": "Mobile Phone",
+    "response": "Accept",
+    "annotation": "null",
+    "eventIdentifier": 5628901,
+    "date": "17-03-07 13:19:01.394",
+    "eventProperties": [
+      {
+        "Region": "EU, US"
+      },
+      {
+        "Issue_ID": "OPS-88257"
+      },
+      {
+        "Summary": "GMA Templates corruption."
+      },
+      {
+        "Priority": "3"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 13:19:18.854] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.114]: (t:null) entered into notifications resonse
+[2017-03-07 18:12:02.101] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.115]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "thanson@blizzard.com",
+    "device": "SMS Phone",
+    "response": "Accept",
+    "annotation": null,
+    "eventIdentifier": 5631093,
+    "date": "17-03-07 18:10:52.962",
+    "eventProperties": [
+      {
+        "Region": "US"
+      },
+      {
+        "Issue_ID": "OPS-88277"
+      },
+      {
+        "Summary": "jahlquist test ticket"
+      },
+      {
+        "Priority": "5"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 18:12:02.102] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.115]: (t:null) entered into notifications resonse
+[2017-03-07 18:12:02.108] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.114]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "jahlquist@blizzard.com",
+    "device": "Work Email",
+    "response": "Accept",
+    "annotation": "null",
+    "eventIdentifier": 5631093,
+    "date": "17-03-07 18:10:45.848",
+    "eventProperties": [
+      {
+        "Region": "US"
+      },
+      {
+        "Issue_ID": "OPS-88277"
+      },
+      {
+        "Summary": "jahlquist test ticket"
+      },
+      {
+        "Priority": "5"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 18:12:02.108] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.114]: (t:null) entered into notifications resonse
+[2017-03-07 18:27:03.144] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.116]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "Oracle_DBA_Office_User",
+    "device": "Work Email",
+    "response": "Accept",
+    "annotation": "null",
+    "eventIdentifier": 5630130,
+    "date": "17-03-07 18:26:47.012",
+    "eventProperties": [
+      {
+        "Region": "AU"
+      },
+      {
+        "Issue_ID": "OPS-88283"
+      },
+      {
+        "Summary": "au2-wow-db-oracle02 OEM alert \"Unable to fail-over resource\""
+      },
+      {
+        "Priority": "3"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 18:27:03.145] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.116]: (t:null) entered into notifications resonse
+[2017-03-07 18:56:03.265] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.116]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "RiskSystems",
+    "device": "Work Email",
+    "response": "Accept",
+    "annotation": "null",
+    "eventIdentifier": 5631140,
+    "date": "17-03-07 18:55:50.437",
+    "eventProperties": [
+      {
+        "Region": "US"
+      },
+      {
+        "Issue_ID": "OPS-88288"
+      },
+      {
+        "Summary": "US8-RAS-DATABASE01: Database.stats.ras.order completed newest (92) above crit..."
+      },
+      {
+        "Priority": "3"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 18:56:03.265] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.116]: (t:null) entered into notifications resonse
+[2017-03-07 19:06:33.258] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.117]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "Oracle_DBA_Office_User",
+    "device": "Work Email",
+    "response": "Accept",
+    "annotation": "null",
+    "eventIdentifier": 5631153,
+    "date": "17-03-07 19:06:19.793",
+    "eventProperties": [
+      {
+        "Region": "EU"
+      },
+      {
+        "Issue_ID": "OPS-88281"
+      },
+      {
+        "Summary": "EU8-RAS-DATABASE01: Database.stats.gg.status -.* does not equal RUNNING: Data..."
+      },
+      {
+        "Priority": "3"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 19:06:33.259] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.117]: (t:null) entered into notifications resonse
+[2017-03-07 19:21:49.518] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.117]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "thanson@blizzard.com",
+    "device": "SMS Phone",
+    "response": "Accept",
+    "annotation": null,
+    "eventIdentifier": 5631163,
+    "date": "17-03-07 19:21:38.437",
+    "eventProperties": [
+      {
+        "Region": "US"
+      },
+      {
+        "Issue_ID": "OPS-88290"
+      },
+      {
+        "Summary": "THanson Test"
+      },
+      {
+        "Priority": "5"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 19:21:49.518] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.117]: (t:null) entered into notifications resonse
+[2017-03-07 23:02:18.937] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.120]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "BIIS_Network_Telecom_User",
+    "device": "Work Email",
+    "response": "Accept",
+    "annotation": "null",
+    "eventIdentifier": 5631315,
+    "date": "17-03-07 23:02:09.680",
+    "eventProperties": [
+      {
+        "Region": "US"
+      },
+      {
+        "Issue_ID": "OPS-88304"
+      },
+      {
+        "Summary": "US Network Issues"
+      },
+      {
+        "Priority": "2"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 23:02:18.939] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.120]: (t:null) entered into notifications resonse
+[2017-03-07 23:03:33.802] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.120]: (t:null) Msg_for initial {
+  "hookResponse": {
+    "recipient": "srutherford@blizzard.com",
+    "device": "SMS Phone",
+    "response": "Accept",
+    "annotation": null,
+    "eventIdentifier": 5630341,
+    "date": "17-03-07 23:03:25.217",
+    "eventProperties": [
+      {
+        "Region": "US"
+      },
+      {
+        "Issue_ID": "OPS-88304"
+      },
+      {
+        "Summary": "Austin/Irvine Corp Network Issues"
+      },
+      {
+        "Priority": "2"
+      }
+    ]
+  },
+  "userEvents": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+  "instanceDetails": {
+    "instanceId": 59235,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0M3MjU0ZTk0OWFkNjY1ODlmZjA0MDVmZDRhMzM2YjY1NmNkOTE0OWI1ZGVhYzdhNTAyNDM5MTIyZTMwYjg4MGM1",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMjBhYmZmMC03ZWRjLTQwMzItOWZhNy0yNzc1YjE5NDliMzk",
+    "updatedDate": "2017-02-10T06:35:20",
+    "messageFormat": "xMatters Bot :Hello...User",
+    "createdDate": "2017-02-10T06:35:20",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDQzNzhjMDAtZWZiZi0xMWU2LWEwODUtNzFhYTRhMjkyODZm",
+    "configJson": "{\"displayName\":\"\",\"webhookUrl\":\"https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0\"}",
+    "instanceUuid": "1ea3c4a3-efbf-11e6-8b3e-067431b9b1a0"
+  }
+}
+[2017-03-07 23:03:33.802] INFO    org.mule.api.processor.LoggerMessageProcessor [[cisco-spark-integration-xmatters].api-httpListenerConfig.worker.120]: (t:null) entered into notifications resonse
+
